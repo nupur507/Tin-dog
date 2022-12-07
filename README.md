@@ -1,2 +1,1 @@
-# Tin-dog
-Own making site
+TinDog Starting Files
